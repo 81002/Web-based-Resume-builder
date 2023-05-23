@@ -1,12 +1,3 @@
-## See this project live:
-
-[https://createmyresume.netlify.app](https://createmyresume.netlify.app)
-
-## Sample (4 preloaded color schemes):
-
-<img src="https://github.com/ashutoshkumar19/resume-builder/blob/master/samples/dummy-seagreen.jpg" width="350px" /> <img src="https://github.com/ashutoshkumar19/resume-builder/blob/master/samples/dummy-blue.jpg" width="350px" />
-<img src="https://github.com/ashutoshkumar19/resume-builder/blob/master/samples/dummy-grey.jpg" width="350px" /> <img src="https://github.com/ashutoshkumar19/resume-builder/blob/master/samples/dummy-indigo.jpg" width="350px" />
-
 ## Steps to run this project:
 
 In the project directory,
